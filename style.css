@@ -1,0 +1,48 @@
+body {
+  font-family: "Noto Sans TC", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #004d7a;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  background-color: white;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-left: 5px solid #007acc;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+  background-color: #eee;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
